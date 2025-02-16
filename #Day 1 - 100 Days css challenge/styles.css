@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	
+}
+.box{
+	height: 400px;
+	width: 400px;
+	background-color: #4682B4;
+	border-radius: 7px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.first{
+	bottom: 20px;
+	font-size: 100px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+    top: -70px;
+
+	left: 65px;
+	font-family: georgia;
+	
+}
+.second{
+	font-family: consolas;
+	color: white;
+	font-size: 26px;
+}
+.text{
+	font-family: Courier New;
+	text-transform: uppercase;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	top: 60px;
+    bottom: 30px;
+	right: 50px;
+	
+	
+}
+.text p{
+	align-self: center;
+}
+.days{
+	width: 200px;
+	height: 60px;
+	font-size: 82px ;
+	position: relative;
+    top: -40px;
+	
+}
+.challenge{
+	font-size: 23px;
+	position: relative;
+	right: 15px;
+	top: -10px;
+}
