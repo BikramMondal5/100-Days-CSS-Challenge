@@ -1,6 +1,6 @@
-# 100-Days-CSS-Challenge
+# 🚀🌐 100-Days-CSS-Challenge
 
-🚀 🌐 A huge collection of creative css projects for beginners, as solutions of the 100 days css challenge 
+A huge collection of creative css projects for beginners, as solutions of the 100 days css challenge 
 
  ## Dependencies 
    
